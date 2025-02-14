@@ -1,5 +1,5 @@
 # xiao_ra4m1
-Helpful commands and files for Seeed Xiao RA4M1 board. Binaries are for x86 linux (I probably should add ARM files for RPi).
+Helpful commands and files for Seeed Xiao RA4M1 board. Binaries available for x86 linux and ARM64 linux (RPi).
 
 ./rfp-cli -d RA -port /dev/ttyACM0 -a orig_xiao_ra4m1.hex
 
